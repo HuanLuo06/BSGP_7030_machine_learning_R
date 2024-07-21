@@ -4,7 +4,7 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - r-base=3.2.3
+  - r-base=4.4.1
   - r-dplyr
   - r-ggplot2
   - r-reshape2

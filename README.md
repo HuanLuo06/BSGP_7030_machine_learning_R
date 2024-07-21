@@ -1,3 +1,7 @@
+This project is adapted from the tuotrial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
+
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuanLuo06/BSGP_7030_machine_learning_R/HEAD)

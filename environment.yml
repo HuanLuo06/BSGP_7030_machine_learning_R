@@ -5,7 +5,15 @@ channels:
   - defaults
 dependencies:
   - r-base=4.1.0
+  - python=3.9
   - r-dplyr
   - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
   - r-caret
-  - r-kernlab
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - numpy
+    - scipy
